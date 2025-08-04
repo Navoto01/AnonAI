@@ -63,6 +63,21 @@ To use AnonAI and save your chat history and settings, you'll need to create a u
 
 ---
 
-### **Credits**
+### **Credits and Contributors**
 
-AnonAI is a project by **AnonLab**, spearheaded by developer **Navoto01**. Special thanks go to the various open-source packages and the community for their contributions, as well as the AI providers that make this app possible.
+AnonAI is a solo project developed under the AnonLab umbrella, but it would not have been possible without its contributors and the technologies used.
+
+* **Development, Design & Project Lead**: Navoto01
+    * The app's full-stack development, user interface (UI) and user experience (UX) design, and project management were all handled by a single person.
+
+* **Testing & Feedback**: Special thanks to the testers who helped improve the application:
+    * Maxi
+    * N0TThat
+    * Vale
+
+* **Technology & Services**:
+    * **Framework**: The application is built on Google's **Flutter** framework. 
+    * **AI Models**: Conversations are powered by artificial intelligence models.
+    * **User Database**: The account system uses the **Firebase** service.
+
+* **Project**: AnonLab 
