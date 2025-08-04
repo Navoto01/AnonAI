@@ -1,4 +1,4 @@
-# AnonAI: Your Smart and Customizable AI Chatbot 🚀
+# AnonAI: Your Smart and Customizable AI Chatbot 🚀 (NOT PUBLIC YET, COMING SOON)
 
 Welcome to **AnonAI**, a free and modern chatbot application designed to provide a seamless and personalized experience when interacting with artificial intelligence. Built with a focus on user experience and customization, AnonAI lets you have engaging conversations in a sleek, responsive environment.
 
