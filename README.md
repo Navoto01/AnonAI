@@ -78,9 +78,9 @@ To use AnonAI and save your chat history and settings, you'll need to create a u
 ---
 
 
-* **Download the App:** **[anon.smstar.hu/AnimOS](http://anon.smstar.hu/AnimOS)**
+* **Download the App:** **[anon.smstar.hu/AnimOS](http://anonlab.hu/AnimOS)**
 * **Join the Community:** **[Discord Server](https://discord.com/invite/vzfmdFyrZa)**
-* **Visit AnonLab:** **[anon.smstar.hu](http://anon.smstar.hu)**
+* **Visit AnonLab:** **[anon.smstar.hu](http://anonlab.hu/)**
 
 ---
 
