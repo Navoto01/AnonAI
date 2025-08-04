@@ -71,7 +71,7 @@ Unlock all these premium features for a one-time purchase of **~~$9.00~~ $5.99**
 
 To use AnonAI and save your chat history and settings, you'll need to create a user account. Here's how to get started:
 
-1.  **Register your account:** Visit **[anon.smstar.hu](http://anon.smstar.hu)** in your web browser to create a new account.
+1.  **Register your account:** Visit **[anon.smstar.hu](http://anonlab.hu/VoidNet)** in your web browser to create a new account.
 2.  **Sign in to AnonAI:** Return to the app and use your **AnonID**, username, or email along with your password to log in.
 3.  **Start your conversation!** Once logged in, you'll have access to all of AnonAI's features, and your data will be safely synced across your devices.
 
