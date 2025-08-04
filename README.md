@@ -14,11 +14,18 @@ Welcome to **AnonAI**, a free and modern chatbot application designed to provide
 * **🌐 Multi-language Support:** AnonAI speaks your language. The app is fully localized and supports **English, German, Hungarian, Romanian, and Chinese**, with more languages potentially coming in the future.
 
 ---
-### **Screenshots (might not be the latest)**
-<img width="682" height="1440" alt="unnamed" src="https://github.com/user-attachments/assets/8f4f2ec8-a72f-4e6d-a508-7e7b289791ce" /> <img width="682" height="1440" alt="unnamed" src="https://github.com/user-attachments/assets/e2d354dc-70fb-4d9d-8da0-3c2e19d60d5f" /> <img width="682" height="1440" alt="unnamed-1" src="https://github.com/user-attachments/assets/185e22e0-8d2b-4e97-b745-9c8b7aa281e4" /> <img width="682" height="1440" alt="unnamed" src="https://github.com/user-attachments/assets/f18d8ea2-9ba0-470f-9d23-22dd42eab28f" /> <img width="682" height="1440" alt="unnamed-1" src="https://github.com/user-attachments/assets/0dce25f7-6a13-408e-b86e-8003759f9c65" /> 
+<h3>Screenshots</h3>
 
+<p float="left">
+  <img src="https://github.com/user-attachments/assets/8f4f2ec8-a72f-4e6d-a508-7e7b289791ce" width="30%" />
+  <img src="https://github.com/user-attachments/assets/e2d354dc-70fb-4d9d-8da0-3c2e19d60d5f" width="30%" />
+  <img src="https://github.com/user-attachments/assets/185e22e0-8d2b-4e97-b745-9c8b7aa281e4" width="30%" />
+</p>
 
-
+<p float="left">
+  <img src="https://github.com/user-attachments/assets/f18d8ea2-9ba0-470f-9d23-22dd42eab28f" width="30%" />
+  <img src="https://github.com/user-attachments/assets/0dce25f7-6a13-408e-b86e-8003759f9c65" width="30%" />
+</p>
 
 ---
 
